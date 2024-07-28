@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+Success!
+Azure DevOps Project has been successfully setup
+Your HTML app is up and running on Azure 
+
+=======
+>>>>>>> branch2
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Success!</h2>
+
+<p>Azure DevOps Project has been successfully setup</p>
+
+<p>Your HTML app is up and running on Azure</p>
+<<<<<<< HEAD
+<p>this change by branch1</p>
+
+</body>
+</html>
+
+=======
+<p>this is change by branch2</samp></p>
+
+</body>
+</html>
+>>>>>>> branch2
